@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Leonardos's GitHub stats](https://github-readme-stats-leonardo-teixeiras-projects-eb5b4272.vercel.app/api?username=leonardoct3&show_icons=true&theme=radical)
+
 <!--
 **leonardoct3/leonardoct3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
