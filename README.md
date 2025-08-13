@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Image](https://github-readme-stats-ten-red-88.vercel.app/api?username=leonardoct3&show_icons=true&theme=radical&v=2)
+![Image](https://github-readme-stats-ten-red-88.vercel.app/api?username=leonardoct3&show_icons=true&theme=radical&v=3)
+<br>
+![Top Langs](https://github-readme-stats-ten-red-88.vercel.app/api/top-langs/?username=leonardoct3&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook&theme=radical&hide_progress=true)
 
 <!--
 **leonardoct3/leonardoct3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
