@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Image](https://github-readme-stats-ten-red-88.vercel.app/api?username=leonardoct3)
+![Image](https://github-readme-stats-ten-red-88.vercel.app/api?username=leonardoct3&show_icons=true&theme=radical&v=2)
+
 <!--
 **leonardoct3/leonardoct3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
